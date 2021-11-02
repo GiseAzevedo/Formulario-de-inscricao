@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(224, 224, 221);
+    margin: 10px;
+}
+.container{
+    margin: 2px;
+    padding: 10px;
+    align-items: left;
+    
+}
+    
+
+    .cabecalho {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .perfil {
+        display: flex;
+      }
+      
+        
+
+    .titulo {
+        width: 100%;
+        
+      }
+
+      .titulo h1 {
+        font-size: 30px;
+        font-family: 'Times New Roman';
+        background-color: rgb(236, 149, 149);
+        border-radius: 2px;
+        text-align: center;
+      
+    }
+
+    .titulo h2 {
+        font-size: 20px;
+        font-family: 'Times New Roman';
+        text-align: left;
+      
+    }
+    table {
+        border-collapse: separate;
+        border-spacing: 0 8px;
+        margin-top: -8px;
+      }
+
+      th {
+        margin-right: auto;
+        min-width: 0px;
+        height: 10px;
+        padding-left: 2px;
+        text-align: left;
+        font-family: 'Times New Roman';
+        font-size: 16px;
+      }
+
+
+      td {
+        border: 1px solid #000;
+        border-width: 1px;
+        border-left-width: 1px;
+        min-width: 0px;
+        height: 10px;
+        text-align: left;
+        font-family: 'Times New Roman';
+        font-size: 13px;
+      }
+
+      button{
+        background-color: rgb(245, 174, 174);  
+        border: 1px solid  #000;
+        border-width: 1px;
+        border-left-width: 1px;
+        min-width: 0px;
+        padding: 2px;
+        margin-top: 30px;
+        height: 20px;
+        text-align: center;
+        font-family: 'Times New Roman';
+        font-size: 12px;
+      }
+      
